@@ -3,5 +3,5 @@
 # szilva
 a = 1
 # nigg
-b= 14
+b= 13
 c = 5
